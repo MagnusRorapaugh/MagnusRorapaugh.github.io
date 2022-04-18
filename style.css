@@ -11,7 +11,7 @@
   border-top-color: #4bc8eb;
   border-bottom-color: #f13a8f;
   border-radius: 50%;
-  animation: rotate 5s linear infinite:
+  animation: rotate 5s linear infinite;
 }
 
 .loader-inner{
