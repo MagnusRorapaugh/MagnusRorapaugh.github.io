@@ -11,12 +11,12 @@
   border-top-color: #4bc8eb;
   border-bottom-color: #f13a8f;
   border-radius: 50%;
-  animation: rotate 52 linear infinite:
+  animation: rotate 5s linear infinite:
 }
 
 .loader-inner{
   border-top-color: #36f372;
-  border-bottom-color:#fff;
+  border-bottom-color: #fff;
   animation-duration: 2.5s;
 }
 
